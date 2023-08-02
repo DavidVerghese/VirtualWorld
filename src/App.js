@@ -24,8 +24,6 @@ function App() {
         <pointLight position={[10, 10, 10]} />
 
         <Galaxy/>
-        {/* <SpinningGlobe toRotate={true} position={[4, 0, -3]} texture={earthTexture} />
-          <SpinningGlobe toRotate={true} position={[-3, 0, -5]} texture={moonTexture} /> */}
         {/* orbit controls: https://sbcode.net/react-three-fiber/orbit-controls/ */}
         <OrbitControls />
       </Canvas>

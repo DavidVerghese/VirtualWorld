@@ -19,7 +19,7 @@ const Galaxy = () => {
 
   return (
     <group ref={groupRef}>
-       <SpinningGlobe toRotate={false} position={[4, 0, -3]} texture={earthTexture} />
+       <SpinningGlobe toRotate={false} position={[4, 0, -5]} texture={earthTexture} />
        <SpinningGlobe toRotate={true} position={[-3, 0, -5]} texture={moonTexture} />
     </group>
   );
