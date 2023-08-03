@@ -1,9 +1,11 @@
+ 
 .App {
   margin: 0px;
   color: white;
   text-align: center;
   height: 100vh;
-  background-image: url("https://imageio.forbes.com/specials-images/dam/imageserve/765877054/0x0.jpg?format=jpg&width=1200");
+  background-color: black;
+ 
 }
 h1 {
   margin: 0px;
